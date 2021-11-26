@@ -7,4 +7,4 @@ Use the elements of the outline provided here for whichever aspects are relevant
 
 ## Repository for the Directed Studies Project of Sandra (Smith) Wuitchik, 2021
 
-This repository 
+This repository contains the data and code necessary to reproduce the results reported in **Git'r done: Introducing BMSC Fall Program to open access code sharing** (Wuitchik and Wuitchik, 2021, _in prep_). 
