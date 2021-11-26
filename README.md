@@ -17,7 +17,7 @@ Jenna Fleet (DS & ADA Teaching Assistant, BMSC; jfleet@ualberta.ca)
 
 This repository contains the data and code necessary to reproduce the results reported in **Git'r done: Introducing BMSC Fall Program to open access code sharing**.
 
-
+<p align="center">
 <img width="594" alt="Screen Shot 2021-11-26 at 9 39 33 AM" src="https://user-images.githubusercontent.com/50593708/143616098-e0ab0aa9-2f7c-4e90-87af-3d755767b149.png">
 
 Artwork by Hazel de Haas (2021).
