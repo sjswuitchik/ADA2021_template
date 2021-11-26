@@ -7,4 +7,12 @@ Use the elements of the outline provided here for whichever aspects are relevant
 
 ## Repository for the Directed Studies Project of Sandra (Smith) Wuitchik, 2021
 
-This repository contains the data and code necessary to reproduce the results reported in **Git'r done: Introducing BMSC Fall Program to open access code sharing** (Wuitchik and Wuitchik, 2021, _in prep_). 
+This repository contains the data and code necessary to reproduce the results reported in **Git'r done: Introducing BMSC Fall Program to open access code sharing**.
+
+Authors
+
+Sara SJ Wuitchik (DS & ADA Instructor, BMSC; sjswuit@g.harvard.edu) 
+
+Daniel M Wuitchik (DS & ADA Instructor, BMSC; wuitchik@bu.edu)
+
+Jenna Fleet (DS & ADA Teaching Assistant, BMSC; jfleet@ualberta.ca) 
