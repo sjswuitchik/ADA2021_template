@@ -1,0 +1,67 @@
+---
+title: "DS & ADA 2021 analyses"
+author: "Sara JS Wuitchik"
+date: "11/26/2021"
+output: 
+  html_document:
+    df_print: kable
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, tidy=TRUE, tidy.opts = list(width.cutoff = 80))
+```
+
+## Set up environment 
+```{r}
+library()
+library()
+library()
+```
+
+## Load data
+```{r}
+data <- read_delim("", delim = ',')
+```
+
+## Data cleaning
+```{r}
+clean <- data %>%
+  
+```
+
+## Testing assumptions
+```{r}
+
+```
+
+## Exploratory visualizations
+```{r}
+
+```
+
+## Distribution fitting
+```{r}
+
+```
+
+## Modelling
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
