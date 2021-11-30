@@ -9,7 +9,7 @@ Use the elements of the outline provided here for whichever aspects are relevant
 
 Authors:
 
-Sara SJ Wuitchik (DS & ADA Instructor, BMSC; sjswuit@g.harvard.edu) 
+Sara JS Wuitchik (DS & ADA Instructor, BMSC; sjswuit@g.harvard.edu) 
 
 Daniel M Wuitchik (DS & ADA Instructor, BMSC; wuitchik@bu.edu)
 
